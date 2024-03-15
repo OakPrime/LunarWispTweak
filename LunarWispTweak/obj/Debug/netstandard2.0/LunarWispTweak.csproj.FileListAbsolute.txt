@@ -1,0 +1,12 @@
+C:\Users\Dan\source\repos\LunarWispTweak\LunarWispTweak\bin\Debug\netstandard2.0\LunarWispTweak.deps.json
+C:\Users\Dan\source\repos\LunarWispTweak\LunarWispTweak\bin\Debug\netstandard2.0\LunarWispTweak.dll
+C:\Users\Dan\source\repos\LunarWispTweak\LunarWispTweak\bin\Debug\netstandard2.0\LunarWispTweak.pdb
+C:\Users\Dan\source\repos\LunarWispTweak\LunarWispTweak\bin\Debug\netstandard2.0\R2API.Language.dll
+C:\Users\Dan\source\repos\LunarWispTweak\LunarWispTweak\obj\Debug\netstandard2.0\LunarWispTweak.csproj.AssemblyReference.cache
+C:\Users\Dan\source\repos\LunarWispTweak\LunarWispTweak\obj\Debug\netstandard2.0\LunarWispTweak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dan\source\repos\LunarWispTweak\LunarWispTweak\obj\Debug\netstandard2.0\LunarWispTweak.AssemblyInfoInputs.cache
+C:\Users\Dan\source\repos\LunarWispTweak\LunarWispTweak\obj\Debug\netstandard2.0\LunarWispTweak.AssemblyInfo.cs
+C:\Users\Dan\source\repos\LunarWispTweak\LunarWispTweak\obj\Debug\netstandard2.0\LunarWispTweak.csproj.CoreCompileInputs.cache
+C:\Users\Dan\source\repos\LunarWispTweak\LunarWispTweak\obj\Debug\netstandard2.0\LunarWispTweak.csproj.CopyComplete
+C:\Users\Dan\source\repos\LunarWispTweak\LunarWispTweak\obj\Debug\netstandard2.0\LunarWispTweak.dll
+C:\Users\Dan\source\repos\LunarWispTweak\LunarWispTweak\obj\Debug\netstandard2.0\LunarWispTweak.pdb
